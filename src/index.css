@@ -5,13 +5,14 @@
   --text: hsla(0, 0%, 100%, 0.88);
 }
 
+
 body {
   margin: 0;
   font-family: "Merriweather", "Georgia", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: var(--bg);
-  color: var(--text);
+
+  
 }
 
 h1,
